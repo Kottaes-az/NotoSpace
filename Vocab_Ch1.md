@@ -489,3 +489,28 @@
      ζ in praise of... 以赞扬...
 137. sculpture (n.) 雕像, 雕塑(作品)
 138. involve (v.) 涉及, (使)参加; 表明
+139. complexity (n.) 复杂(性), 错综复杂 ~= complication
+140. deny (v.) 否认, 否定, 不承认; 拒绝
+141. prone (adj.) 易于遭受(...的)
+     -=> bug-prone 易于出错, 易有漏洞
+142. maintain (v.) 维护, 保持
+143. which in turn 结果
+144. convention (cnb.n.) 习俗, 惯例; 协定
+145. govern (v.) 统治, 管理; 控制 ~ manage, control, rule, direct
+146. emphasize (v.) 强调, 着重
+147. the dos and don'ts 注意事项
+148. be a bit of a misnomer 有点用词不当
+149. assume (v.) 假定, 假设; 认为
+     ζ assume that ...
+150. i.e. (abbr.) 亦即(id est derived from Latin), 也就是
+151. associated (adj.) 关联的, 相关的
+152. pitfall (n.) 陷阱, 隐藏的危险
+153. guide through //FIXME:do complement
+154. inferior (adj.) 低劣的, 低等的, 较差的
+155. pros 赞成 <-> cons 反对
+156. straightforward (adj./adv.) 简单易懂(的/地), 直截了当(的/地)
+157. designated (adj.) 所指定的, 标出的
+158. legal (adj.) 合法的
+159. corresponding (adj.) 对应的, 符合的
+160. instantiate (v.) 举例说明
+161. practice (n.) 做法, 惯例

@@ -1,6 +1,7 @@
 foo. = foo词性 或 foo形式短语
 词性 + :: = 某一学科的专业用词, 常用于命名集合
 foo{ ... }foo_description = 集合foo, 描述:foo_description
+foo{foo_mean}[foo_con] foo的释义为foo_mean, 在句中成分为foo_con, 任何一个括号的内容都可省略, 但括号可以不省略
 << 或 >> = 流
 -> = 链接
 [] = 可推导字符块
@@ -26,4 +27,4 @@ EG >> = example = 示例
 ESP >> = especially = 特别是, 尤其是(多用于补充, 也可省略)
 A << CMP >> B { RESEM: contains1 ; DIFF: contains2 =!= contains3 } = 将A与B作比较, 相同点为A, B均有contains1, 不同点为A有contains2(而B没有), B有contains3(而A没有)
 opp. = 相对的 或 相反的
-CMP >>> foo_group = 多重比较, 比较对象为foo_group的所有成员(及其子成员)
+CMP >>> foo_group{ RESEM: resem_of_foo ; DIFF: [1...group_size]} = 多重比较, 比较对象为foo_group的所有成员(及其子成员), 比较规则可由二元比较规则结合所给模板推导
