@@ -488,3 +488,4 @@
      ζ praise [DO] for [IO] 因[IO]而表扬[DO]
      ζ in praise of... 以赞扬...
 137. sculpture (n.) 雕像, 雕塑(作品)
+138. involve (v.) 涉及, (使)参加; 表明
