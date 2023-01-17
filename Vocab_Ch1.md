@@ -373,7 +373,7 @@
     -\*adv.-> originally 最初, 起初; 本来
     -n.-> original 原件, 原作, 原型
 98. reveal (n./v.) 展示, 显示; 揭示, 启示; 表明 ~ show
-99.  pioneer
+99. pioneer
     (n.) 拓荒者; 先锋 ~ vanguard, avant-courier
     (adj.) 先驱的; 拓荒的
     (v.) 做先锋, 倡导; 开辟 ~ advocate, inaugurate
@@ -514,3 +514,44 @@
 159. corresponding (adj.) 对应的, 符合的
 160. instantiate (v.) 举例说明
 161. practice (n.) 做法, 惯例
+162. tolerance (n.) 忍受, 容忍
+163. note that ... 既然...; 注意...
+164. reach for one's hand == give sb. a hand 给予某人帮助
+165. touch one's heart == touch sb. 感动某人
+166. bring out the best 发挥到极致
+167. fundamental (adj.) 根本的, 基础的, 基本的
+168. take one's place 替代某人的位置, 取代某人
+169. within walking distance 在步行范围之内
+170. in + n. 构成静态短语 <-> on + n. 构成动态短语
+171. make sth. up 编造某事
+172. take in water 吸收水分
+173. try out sth. 尝试某物
+     -fext.n.-> try-out 选拔
+174. divide sth. into 把某物分割为
+175. be on air 广播
+176. go through 经历; 度过; 通读
+177. give sb. a fright 吓到某人
+178. have to do with ... 和...有关系 <-> have nothing to do with 和...无关
+179. fall off ... == fall down from ... 从...上摔下来
+180. take up a new hobby 开始一个新爱好
+181. have the best service 服务最好
+182. [ think/regard/see/view/consider/treat ] sth. as ... 把某物当...对待
+183. underlie (v.) 构成...的基础; 作为...的原因
+184. individual (adj.) 单独的, 个别的, 某个; 独特的 ~ particular
+185. ground (v.) 奠定...的基础; 以...为依据
+186. broader (adj.) 广大的; 普遍的
+187. waive (v.) 放弃; 免除
+188. what sort of ... 哪种..., 什么样的...
+189. principle (n.) 原则, 准则
+190. at ease 踏实; 放松
+191. demonstrate (v.) 演示, 示范; 游行, 示威
+192. let go of 放开，松手
+193. (un)aware that..., sb. ... (未)意识到..., 某人...
+194. unambiguously (adv.) 明确地, 毫不含糊的 <-> ambiguously
+195. hesitation (n.) 犹豫, 不笃定 ~ waver
+196. when appropriate 在适当时, 适时, 适当地
+197. perceived superiority 优越感
+198. dozens of 许多的
+199. encounter (v.) 遭遇
+200. guarantee (v.) 保证 ~ assure, ensure
+201. recovery (n.) 恢复, 复苏; 回升; 痊愈
