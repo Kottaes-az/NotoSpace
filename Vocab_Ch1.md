@@ -558,3 +558,5 @@
 202. account for V. 导致
 203. radioactivity (n.) <physics.>放射现象; 放射物质
 204. contaminate (v.) 污染, 玷污
+205. concern (n.) 担心, 忧虑; 使人担心的事物
+206. trace (n.) 痕迹, 踪迹; 遗迹
