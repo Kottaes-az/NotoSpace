@@ -555,3 +555,6 @@
 199. encounter (v.) 遭遇
 200. guarantee (v.) 保证 ~ assure, ensure
 201. recovery (n.) 恢复, 复苏; 回升; 痊愈
+202. account for V. 导致
+203. radioactivity (n.) <physics.>放射现象; 放射物质
+204. contaminate (v.) 污染, 玷污
